@@ -29,8 +29,11 @@ span {
     padding: 10px;
     border-style:none;
     border-radius: 100px;
-    box-shadow:2px 2px 1px;
+    box-shadow:3px 3px 3px;
     display: block;
     background-color:#90A4AE;
     margin-top:10px;
+}
+#submit:active {
+    box-shadow: 1px 1px 1px #90A4AE;
 }
