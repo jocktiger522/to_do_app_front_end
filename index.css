@@ -38,8 +38,14 @@ span {
     box-shadow: 1px 1px 1px #90A4AE;
 }
 #dot {
-    width:10px;
+    width:50px;
 }
 #t {
-    width:10px;
+    width:50px;
+}
+.time {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 18px ;
 }
